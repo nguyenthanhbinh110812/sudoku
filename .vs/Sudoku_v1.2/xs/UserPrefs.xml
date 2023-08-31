@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{4919B14A-1893-CD55-A1FE-22F4F7B028D8}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GleyPlugins/Ads/Scripts/Editor/SettingsWindow.cs">
+    <Files>
+      <File FileName="Assets/Sudoku/Framework/Scripts/IAP/IAPManager.cs" Line="82" Column="1" />
+      <File FileName="Assets/Sudoku/Editor/PuzzleCreatorWindow.cs" Line="133" Column="6" />
+      <File FileName="Assets/Sudoku/Scripts/Game/Notification.cs" Line="13" Column="1" />
+      <File FileName="Assets/GleyPlugins/Ads/Scripts/Editor/SettingsWindow.cs" Line="61" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="50ee77a8-6652-44f7-92b2-6dee27e12b79" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

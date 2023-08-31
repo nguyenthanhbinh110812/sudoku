@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{AE9C8341-B71F-8702-C3AE-E7A5116B88C6}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Sudoku/Scripts/Game/Notification.cs">
+    <Files>
+      <File FileName="Assets/Sudoku/Scripts/Game/GameSettingsPopup.cs" Line="1" Column="1" />
+      <File FileName="Assets/Sudoku/Framework/Scripts/IAP/Editor/IAPSettingsWindow.cs" />
+      <File FileName="Assets/Sudoku/Scripts/Game/PuzzleBoard.cs" />
+      <File FileName="Assets/Sudoku/Editor/PuzzleCreatorWindow.cs" />
+      <File FileName="Assets/Sudoku/Framework/Editor/SaveManagerEditor.cs" />
+      <File FileName="Assets/GleyPlugins/Ads/Scripts/Editor/SettingsWindow.cs" />
+      <File FileName="Assets/Sudoku/Scripts/Game/GameManager.cs" />
+      <File FileName="Assets/Sudoku/Scripts/Game/StatsScreen.cs" />
+      <File FileName="Assets/Sudoku/Framework/Scripts/Screen/Screen.cs" />
+      <File FileName="Assets/Sudoku/Framework/Scripts/Screen/ScreenManager.cs" />
+      <File FileName="Assets/Sudoku/Scripts/Game/Notification.cs" Line="15" Column="8" />
+      <File FileName="Assets/Sudoku/Framework/Scripts/Sound/SoundManager.cs" />
+      <File FileName="Assets/Sudoku/Framework/Scripts/UI/ToggleSlider.cs" />
+      <File FileName="Assets/Sudoku/Scripts/Game/GameScreen.cs" />
+      <File FileName="Assets/Sudoku/Scripts/Game/MainScreen.cs" />
+      <File FileName="Assets/Sudoku/Scripts/Game/Loading.cs" />
+      <File FileName="Assets/Sudoku/Framework/Scripts/Popup/Popup.cs" Line="61" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="30ec121f-0b0b-4865-a138-60b27d23958b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
